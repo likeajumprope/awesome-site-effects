@@ -5,6 +5,18 @@ Repository containing information about batch effects in neuroimaging
 
 Hu, F., Chen, A. A., Horng, H., Bashyam, V., Davatzikos, C., Alexander-Bloch, A., Li, M., Shou, H., Satterthwaite, T. D., Yu, M., & Shinohara, R. T. (2023). Image harmonization: A review of statistical and deep learning methods for removing batch effects and evaluation metrics for effective harmonization. NeuroImage, 274, 120125. [Link](https://www.sciencedirect.com/science/article/pii/S1053811923002719)
 
+Bayer, J. M. M., Thompson, P. M., Ching, C. R. K., Liu, M., Chen, A., Panzenhagen, A. C., Jahanshad, N., Marquand, A., Schmaal, L., & Sämann, P. G. (2022). Site effects how-to and when: An overview of retrospective techniques to accommodate site effects in multi-site neuroimaging analyses. Frontiers in Neurology, 13, 923988.
+
+Da-Ano, R., Visvikis, D., & Hatt, M. (2020). Harmonization strategies for multicenter radiomics investigations. Physics in Medicine and Biology, 65(24), 24TR02.
+
+Ibrahim, A., Primakov, S., Beuque, M., Woodruff, H. C., Halilaj, I., Wu, G., Refaee, T., Granzier, R., Widaatalla, Y., Hustinx, R., Mottaghy, F. M., & Lambin, P. (2021). Radiomics for precision medicine: Current challenges, future prospects, and the proposal of a new framework. Methods (San Diego, Calif.), 188, 20–29.
+
+Mali, S. A., Ibrahim, A., Woodruff, H. C., Andrearczyk, V., Müller, H., Primakov, S., Salahuddin, Z., Chatterjee, A., & Lambin, P. (2021). Making radiomics more reproducible across scanner and imaging protocol variations: A review of harmonization methods. Journal of Personalized Medicine, 11(9), 842.
+
+Pinto, M. S., Paolella, R., Billiet, T., Van Dyck, P., Guns, P.-J., Jeurissen, B., Ribbens, A., den Dekker, A. J., & Sijbers, J. (2020). Harmonization of Brain Diffusion MRI: Concepts and Methods. Frontiers in Neuroscience, 14, 396.
+
+Stamoulou, E., Spanakis, C., Manikis, G. C., Karanasiou, G., Grigoriadis, G., Foukakis, T., Tsiknakis, M., Fotiadis, D. I., & Marias, K. (2022). Harmonization Strategies in Multicenter MRI-Based Radiomics. The Journal of Imaging Science and Technology / IS&T, the Society for Imaging Science and Technology, 8(11). https://doi.org/10.3390/jimaging8110303
+
 
 ### Papers that show the downsides of Combat
 
