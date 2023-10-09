@@ -17,6 +17,16 @@ Pinto, M. S., Paolella, R., Billiet, T., Van Dyck, P., Guns, P.-J., Jeurissen, B
 
 Stamoulou, E., Spanakis, C., Manikis, G. C., Karanasiou, G., Grigoriadis, G., Foukakis, T., Tsiknakis, M., Fotiadis, D. I., & Marias, K. (2022). Harmonization Strategies in Multicenter MRI-Based Radiomics. The Journal of Imaging Science and Technology / IS&T, the Society for Imaging Science and Technology, 8(11). https://doi.org/10.3390/jimaging8110303
 
+### ComBat papers
+
+#### ComBat Gam 
+Pomponio, R., Erus, G., Habes, M., Doshi, J., Srinivasan, D., Mamourian, E., Bashyam, V., Nasrallah, I. M., Satterthwaite, T. D., Fan, Y., Launer, L. J., Masters, C. L., Maruff, P., Zhuo, C., Völzke, H., Johnson, S. C., Fripp, J., Koutsouleris, N., Wolf, D. H., … Davatzikos, C. (2020). Harmonization of large MRI datasets for the analysis of brain imaging patterns throughout the lifespan. NeuroImage, 208, 116450. [Link](https://www.sciencedirect.com/science/article/pii/S1053811919310419)
+
+###### Paper summary:
+-  Combat with a Gam model for non-linear modelling of covariates (covariates in the papers are age, sex and intercranial volume (ICF)
+-  tested on a large number of data sets covering full age range
+-  implementation in python
+[Link to repository](https://github.com/rpomponio/neuroHarmonize)
 
 ### Papers that show the downsides of Combat
 
