@@ -2,7 +2,7 @@
 Repository containing information about batch effects in neuroimaging
 
 - [Review papers](#Review papers)
-- [ComBat papers](#ComBat papers)
+- [ComBat papers](#ComBat) papers)
 
 
 
