@@ -5,7 +5,7 @@ Repository containing information about batch effects in neuroimaging
 
 
 
-### Review papers
+###Review papers
 
 Hu, F., Chen, A. A., Horng, H., Bashyam, V., Davatzikos, C., Alexander-Bloch, A., Li, M., Shou, H., Satterthwaite, T. D., Yu, M., & Shinohara, R. T. (2023). Image harmonization: A review of statistical and deep learning methods for removing batch effects and evaluation metrics for effective harmonization. NeuroImage, 274, 120125. [Link](https://www.sciencedirect.com/science/article/pii/S1053811923002719)
 
