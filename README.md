@@ -1,6 +1,10 @@
 # awesome-site-effects
 Repository containing information about batch effects in neuroimaging
 
+[Review papers](#Review papers)
+
+
+
 ### Review papers
 
 Hu, F., Chen, A. A., Horng, H., Bashyam, V., Davatzikos, C., Alexander-Bloch, A., Li, M., Shou, H., Satterthwaite, T. D., Yu, M., & Shinohara, R. T. (2023). Image harmonization: A review of statistical and deep learning methods for removing batch effects and evaluation metrics for effective harmonization. NeuroImage, 274, 120125. [Link](https://www.sciencedirect.com/science/article/pii/S1053811923002719)
@@ -17,17 +21,26 @@ Pinto, M. S., Paolella, R., Billiet, T., Van Dyck, P., Guns, P.-J., Jeurissen, B
 
 Stamoulou, E., Spanakis, C., Manikis, G. C., Karanasiou, G., Grigoriadis, G., Foukakis, T., Tsiknakis, M., Fotiadis, D. I., & Marias, K. (2022). Harmonization Strategies in Multicenter MRI-Based Radiomics. The Journal of Imaging Science and Technology / IS&T, the Society for Imaging Science and Technology, 8(11). https://doi.org/10.3390/jimaging8110303
 
-### ComBat papers
+### ComBat Papers
+
+
+### Extension of ComBat papers
 
 #### ComBat Gam 
 Pomponio, R., Erus, G., Habes, M., Doshi, J., Srinivasan, D., Mamourian, E., Bashyam, V., Nasrallah, I. M., Satterthwaite, T. D., Fan, Y., Launer, L. J., Masters, C. L., Maruff, P., Zhuo, C., Völzke, H., Johnson, S. C., Fripp, J., Koutsouleris, N., Wolf, D. H., … Davatzikos, C. (2020). Harmonization of large MRI datasets for the analysis of brain imaging patterns throughout the lifespan. NeuroImage, 208, 116450. [Link](https://www.sciencedirect.com/science/article/pii/S1053811919310419)
 
 ###### Paper summary:
 -  Combat with a Gam model for non-linear modelling of covariates (covariates in the papers are age, sex and intercranial volume (ICF)
--  tested on a large number of data sets covering full age range
--  implementation in python
+-  tested on a 18 number of data sets (n > 10000) covering full age range
+-  implementation in Python
 [Link to repository](https://github.com/rpomponio/neuroHarmonize)
 
+#### Covbat 
+
+##### Paper summary
+- tests for site effects not only in mean and variance, but also in covariance
+- Link to repository
+  
 ### Papers that show the downsides of Combat
 
 Price, E. M., & Robinson, W. P. (2018). Adjusting for batch effects in DNA methylation microarray data, a lesson learned. Frontiers in Genetics, 9, 83.
@@ -37,5 +50,7 @@ Zindler, T., Frieling, H., Neyazi, A., Bleich, S., & Friedel, E. (2020). Simulat
 
 Nygaard, V., Rødland, E. A., & Hovig, E. (2016). Methods that remove batch effects while retaining group differences may lead to exaggerated confidence in downstream analyses. Biostatistics , 17(1), 29–39. [Link](https://pubmed.ncbi.nlm.nih.gov/26272994/)
 
+### GANs for site efffect correction
 
+### Normative modelling for site effect correction
 
