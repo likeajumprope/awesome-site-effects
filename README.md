@@ -2,7 +2,7 @@
 Repository containing information about batch effects in neuroimaging
 
 - [Review papers](#Review papers)
-- [ComBat papers](#ComBat) papers)
+- [ComBat papers](#ComBat_papers)
 
 
 
@@ -22,7 +22,7 @@ Pinto, M. S., Paolella, R., Billiet, T., Van Dyck, P., Guns, P.-J., Jeurissen, B
 
 Stamoulou, E., Spanakis, C., Manikis, G. C., Karanasiou, G., Grigoriadis, G., Foukakis, T., Tsiknakis, M., Fotiadis, D. I., & Marias, K. (2022). Harmonization Strategies in Multicenter MRI-Based Radiomics. The Journal of Imaging Science and Technology / IS&T, the Society for Imaging Science and Technology, 8(11). https://doi.org/10.3390/jimaging8110303
 
-### ComBat Papers
+### ComBat_papers
 
 
 ### Extension of ComBat papers
